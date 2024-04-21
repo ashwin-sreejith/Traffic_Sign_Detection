@@ -1,0 +1,11 @@
+*.class
+*.log
+*.pid
+*.sock
+*.swp
+local/
+.idea/
+.vscode/
+.vagrant/
+.sass-cache/
+
