@@ -8,4 +8,5 @@ local/
 .vscode/
 .vagrant/
 .sass-cache/
+.ipynb_checkpoints/
 
