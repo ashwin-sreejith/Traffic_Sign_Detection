@@ -4,9 +4,8 @@ Welcome to our project! We're developing two classifiers to identify traffic sig
 
 Here's how our repository is organized:
 
-- 📁 `sign_type`: Houses the code for the sign type classifier.
-- 📁 `sign_shape`: Contains the code for the sign shape classifier.
-- 📁 `Dataset`: Stores the preprocessed dataset used for training.
+- 📁 `models`: Houses the models trained.
+- 📁 `Dataset`: Stores the datasets used for training.
 
 📜 The dataset is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
